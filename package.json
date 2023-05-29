@@ -1,0 +1,21 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "Drag and drop typescript project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc -w"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Mehran Rasheed",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.0.4"
+  }
+}
